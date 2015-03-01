@@ -1,0 +1,50 @@
+body {
+    background-image: url(http://smkrajamudamusakk.edu.my/wp-content/uploads/2013/01/login.png);
+    width: 100%;
+    height: 100%;
+}
+#card {
+width: 600px;
+height: 60px;
+border-top-left-radius: 20px;
+border-top-right-radius: 20px;
+border: 5px solid #7a9e35;
+margin: auto;
+margin-top: 205px;
+background-color: #7a9e35;
+}
+
+#card-body {
+    width: 600px;
+    height: 300px;
+    background-color: #FAFAFA;
+    border: 1px solid #eeeeee;
+    margin: auto;
+}
+#card-logo {
+width: 260px;
+height: 68px;
+background: url(http://www.stjohn.edu.my/v4/wp-content/uploads/2014/09/grg.png) no-repeat 20px center;
+position: absolute;
+margin: auto;
+}
+#card h3 {
+    margin: auto;
+    margin-left: 290px;
+    margin-top: 18px;
+    font-family: Segoe UI,Segoe;
+    font-size: 25px;
+    color: #ffffff;
+}
+#card-body p {
+    font-family: Segoe UI, Segoe;
+    font-size: 20px;
+}
+#card-parents {
+    width: 600px;
+    height: 90px;
+    background-color: #fcfcfc;
+    border: 0px solid #eeeeee;
+    margin: auto;
+    margin-top: -10px;
+}

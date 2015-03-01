@@ -1,0 +1,24 @@
+
+
+h1 {
+    font-weight : bold;
+    font-family : Segoe Ui
+    }
+    
+.warning {
+    background-color : red;
+    border : 75px;
+    
+}
+.warning p {
+    color: white;
+    font-family: Segoe Ui Light;
+    font-size: 40px;
+    margin-left: -10px;
+}
+.warning h4 {
+    color: white;
+    font-family: Segoe Ui Light;
+    font-size: 20px;
+    margin-left: -10px;
+}
