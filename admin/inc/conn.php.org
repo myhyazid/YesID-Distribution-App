@@ -1,5 +1,0 @@
-<?php
-$conn = mysql_connect("localhost","root","Myhyazid211299"); //tukar ikut setting dbase
-$dbase = mysql_select_db("froglp",$conn);
-if (!$dbase) { die("SILA HUBUNGI PENTADBIR SISTEM"); }
-?>
